@@ -1,0 +1,15 @@
+p
+{
+	color: blue; 
+	font-family: monospace;
+}
+
+.list
+{ 
+	border-color : black;
+	border-width : medium;
+	border-style : solid;
+	padding : 8% ;
+	margin: 35%;
+	text-align: center; 
+}
