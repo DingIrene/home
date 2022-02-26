@@ -43,3 +43,7 @@ body{
 	color:#686868;
 	font-size: 11px;
 }
+
+img{
+	border:solid #8A716A 4px; 
+}
