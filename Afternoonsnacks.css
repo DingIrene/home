@@ -1,0 +1,45 @@
+.italics{
+	font-style:italic;
+}
+
+#title{
+	border-style: solid;
+	border: 7px; 
+	text-align: center;
+	color:#8A716A;
+}
+
+.na{
+	font-style:italic;
+	color:#686868;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+/*styling the naviagtion bar*/
+.topnav {
+  background-color:#8A716A;
+  overflow: hidden;
+}
+
+/* Styling the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+body{
+	background-color:#DFD4CD;
+}
+
+#cite{
+	font-style:italic;
+	color:#686868;
+	font-size: 11px;
+}

@@ -1,0 +1,16 @@
+/*validated*/
+.italics{
+    font-style:italic;
+}
+
+body{
+    background-color:#DFD4CD;
+    font-family:FreeMono, monospace;
+}
+
+h1, h2{
+	background-color:#8A716A;
+	color:#ccc7c7;
+	font-family:FreeMono, monospace;
+	letter-spacing: 10px;
+}
